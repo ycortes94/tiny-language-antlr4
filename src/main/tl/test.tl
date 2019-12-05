@@ -53,3 +53,4 @@ assert(p[2]);
 assert(p[1][2] == 'c');
 
 println("All Assertions have passed.");
+println("hello world");
